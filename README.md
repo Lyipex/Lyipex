@@ -103,13 +103,8 @@ O projeto está sendo desenvolvido do zero como um laboratório para aplicar con
 
 ## 📫 Como entrar em contato
 
-<a href="https://www.linkedin.com/in/filipealbuquerqueah/">
-  <img height="32" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:falbuquerqueah@gmail.com">
-  <img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
-</a>
+<a href="https://www.linkedin.com/in/filipealbuquerqueah/"><img height="32" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:falbuquerqueah@gmail.com"><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/></a>
 
 ---
 
@@ -224,13 +219,8 @@ The project is being built from scratch as a laboratory for applying concepts in
 
 ## 📫 How to Reach Me
 
-<a href="https://www.linkedin.com/in/filipealbuquerqueah/">
-  <img height="32" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:falbuquerqueah@gmail.com">
-  <img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
-</a>
+<a href="https://www.linkedin.com/in/filipealbuquerqueah/"><img height="32" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:falbuquerqueah@gmail.com"><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/></a>
 
 ---
 
