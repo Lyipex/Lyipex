@@ -1,89 +1,110 @@
-# Olá, eu sou Filipe Brito Albuquerque! 👋
+# Olá, eu sou Filipe Albuquerque! 👋
 
 ### Engenheiro de Produção | Gestão de Projetos | Analytics & Data Engineering
 
 Sempre fui apaixonado por **tecnologia, jogos e programação**. Minha trajetória profissional começou na Engenharia, passando por **operações, planejamento e gestão de projetos**, e hoje estou direcionando essa experiência para **Analytics e Data Engineering**.
 
-Vejo os dados como uma ferramenta para **entender problemas, automatizar processos e apoiar decisões**. Meu objetivo é unir conhecimento de negócio e tecnologia para transformar dados dispersos e rotinas manuais em soluções mais eficientes, confiáveis e escaláveis.
-
-Atualmente, utilizo problemas reais do meu dia a dia — especialmente relacionados a **planejamento de docagens, novas construções, custos e operações** — como laboratório para desenvolver projetos utilizando Python, SQL, análise de dados e automação.
+Vejo os dados como uma ferramenta para **entender problemas, automatizar processos e apoiar decisões**. Atualmente, utilizo problemas reais do meu dia a dia — especialmente relacionados a **planejamento de docagens, novas construções, custos e operações** — como laboratório para desenvolver soluções utilizando Python, SQL, análise de dados e automação.
 
 ---
 
-## 💻 I code with
+## 💻 Stack Tecnológica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
+
+**Python • SQL • PostgreSQL • Git • GitHub • VS Code**
+
+---
 
 ## 📊 Data & Analytics
 
 <p align="left">
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" />
-  &nbsp;
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI"/>
 </p>
 
-**Python • SQL • PostgreSQL • Pandas • Streamlit • Power BI • Excel • VBA**
+**Pandas • NumPy • Streamlit • Power BI • Excel • VBA • Dashboards**
 
 ---
 
 ## 📚 Atualmente estudando
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" title="dbt"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
 
-**Data Engineering • Docker • PySpark • dbt • Apache Airflow • AWS**
+**Data Engineering • Docker • Apache Airflow • dbt • PySpark • AWS**
 
 Estou aprofundando meus conhecimentos em **Engenharia de Dados**, evoluindo de análise e automação para construção de pipelines, modelagem de dados, processamento distribuído e arquiteturas modernas de dados.
 
 ---
 
-## 🚀 O que estou construindo
+## 🧠 Conhecimento de Negócio
 
-Utilizo minha experiência em Engenharia e Operações para desenvolver projetos aplicados a problemas reais.
+**⚙️ Engenharia & Operações** • **📋 Gestão de Projetos** • **📅 Planejamento & Cronogramas**  
+**💰 Custos** • **⚓ Operações Marítimas & Docagens** • **📊 Indicadores & Performance** • **🔄 Melhoria de Processos**
+
+Minha experiência em Engenharia e Operações complementa minha formação técnica em dados, permitindo desenvolver soluções conectadas a **problemas reais de negócio**.
+
+---
+
+## 🚀 O que estou construindo
 
 ### ⚓ Planejamento e Gestão de Docagem Naval
 
-Desenvolvimento de soluções para acompanhamento de **cronogramas, custos, logística e execução de projetos de docagem**, transformando controles operacionais em aplicações e análises orientadas por dados.
+Soluções para acompanhamento de **cronogramas, custos, logística e execução de projetos de docagem**, transformando controles operacionais em aplicações e análises orientadas por dados.
 
 `Python` `Pandas` `Streamlit` `Data Visualization`
 
 ### 🔄 Data Pipelines & Automation
 
-Construção e estudo de pipelines voltados à **extração, transformação e organização de dados operacionais**, buscando reduzir atividades manuais, melhorar a qualidade dos dados e eliminar gargalos.
+Construção e estudo de pipelines para **extração, transformação e organização de dados operacionais**, buscando reduzir atividades manuais, melhorar a qualidade dos dados e eliminar gargalos.
 
 `Python` `SQL` `PostgreSQL` `ETL`
 
 ### 📈 Analytics & Business Intelligence
 
-Desenvolvimento de dashboards e indicadores para transformar dados operacionais em informações úteis para **planejamento, acompanhamento de projetos e tomada de decisão**.
+Desenvolvimento de dashboards e indicadores para apoiar **planejamento, acompanhamento de projetos e tomada de decisão**.
 
 `Power BI` `Excel` `Python` `SQL`
 
 ---
 
-## 🧠 Conhecimento de Negócio
-
-Além da tecnologia, trago experiência prática em:
-
-- ⚙️ Engenharia e Operações
-- 📋 Gestão de Projetos
-- 📅 Planejamento e Cronogramas
-- 💰 Custos e acompanhamento financeiro
-- ⚓ Operações marítimas e docagens
-- 📊 Indicadores e análise de desempenho
-- 🔄 Melhoria e automação de processos
-
-Essa combinação entre **negócio + engenharia + dados** é a base dos projetos que estou construindo.
-
----
-
 ## 📫 Como entrar em contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Albuquerque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipealbuquerqueah/)
-[![Gmail](https://img.shields.io/badge/Gmail-falbuquerqueah-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falbuquerqueah@gmail.com)
+<a href="https://www.linkedin.com/in/filipealbuquerqueah/">
+  <img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:falbuquerqueah@gmail.com">
+  <img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
+</a>
+
+**LinkedIn:** [linkedin.com/in/filipealbuquerqueah](https://www.linkedin.com/in/filipealbuquerqueah/)  
+**E-mail:** falbuquerqueah@gmail.com
 
 ---
 
@@ -91,51 +112,80 @@ Essa combinação entre **negócio + engenharia + dados** é a base dos projetos
 
 <br>
 
-# Hi, I'm Filipe Brito Albuquerque! 👋
+# Hi, I'm Filipe Albuquerque! 👋
 
 ### Production Engineer | Project Management | Analytics & Data Engineering
 
 I have always been passionate about **technology, gaming, and programming**. My professional journey started in Engineering, working across **operations, planning, and project management**, and today I am bringing that experience into **Analytics and Data Engineering**.
 
-I see data as a way to **understand problems, automate processes, and support better decisions**. My goal is to combine business knowledge and technology to transform scattered data and manual workflows into efficient, reliable, and scalable solutions.
-
-I currently use real-world challenges from my professional routine — particularly involving **dry-docking planning, new builds, costs, and operations** — as a laboratory for projects involving Python, SQL, data analytics, and automation.
+I see data as a way to **understand problems, automate processes, and support better decisions**. I currently use real-world challenges from my professional routine — particularly involving **dry-docking planning, new builds, costs, and operations** — as a laboratory for developing solutions using Python, SQL, data analytics, and automation.
 
 ---
 
-## 💻 I code with
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
+
+**Python • SQL • PostgreSQL • Git • GitHub • VS Code**
+
+---
 
 ## 📊 Data & Analytics
 
 <p align="left">
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" />
-  &nbsp;
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI"/>
 </p>
 
-**Python • SQL • PostgreSQL • Pandas • Streamlit • Power BI • Excel • VBA**
+**Pandas • NumPy • Streamlit • Power BI • Excel • VBA • Dashboards**
 
 ---
 
 ## 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" title="dbt"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
 
-**Data Engineering • Docker • PySpark • dbt • Apache Airflow • AWS**
+**Data Engineering • Docker • Apache Airflow • dbt • PySpark • AWS**
 
 I am currently deepening my knowledge of **Data Engineering**, progressing from analytics and automation toward data pipelines, data modeling, distributed processing, and modern data architectures.
 
 ---
 
-## 🚀 What I'm Building
+## 🧠 Domain Expertise
 
-I use my Engineering and Operations background to build projects based on real-world problems.
+**⚙️ Engineering & Operations** • **📋 Project Management** • **📅 Planning & Scheduling**  
+**💰 Cost Management** • **⚓ Maritime Operations & Dry-Docking** • **📊 KPIs & Performance** • **🔄 Process Improvement**
+
+My Engineering and Operations background complements my technical development in data, allowing me to build solutions connected to **real-world business problems**.
+
+---
+
+## 🚀 What I'm Building
 
 ### ⚓ Dry-Docking Planning & Management
 
@@ -151,32 +201,24 @@ Building and studying pipelines focused on **extracting, transforming, and organ
 
 ### 📈 Analytics & Business Intelligence
 
-Developing dashboards and KPIs to transform operational data into actionable information for **planning, project monitoring, and decision-making**.
+Developing dashboards and KPIs to support **planning, project monitoring, and decision-making**.
 
 `Power BI` `Excel` `Python` `SQL`
 
 ---
 
-## 🧠 Domain Expertise
-
-Beyond technology, I bring practical experience in:
-
-- ⚙️ Engineering & Operations
-- 📋 Project Management
-- 📅 Planning & Scheduling
-- 💰 Cost Management
-- ⚓ Maritime Operations & Dry-Docking
-- 📊 Performance Indicators & Analytics
-- 🔄 Process Improvement & Automation
-
-This combination of **business + engineering + data** is the foundation of the projects I am building.
-
----
-
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Albuquerque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipealbuquerqueah/)
-[![Gmail](https://img.shields.io/badge/Gmail-falbuquerqueah-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falbuquerqueah@gmail.com)
+<a href="https://www.linkedin.com/in/filipealbuquerqueah/">
+  <img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:falbuquerqueah@gmail.com">
+  <img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
+</a>
+
+**LinkedIn:** [linkedin.com/in/filipealbuquerqueah](https://www.linkedin.com/in/filipealbuquerqueah/)  
+**E-mail:** falbuquerqueah@gmail.com
 
 ---
 
