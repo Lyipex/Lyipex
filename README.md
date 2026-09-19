@@ -52,8 +52,8 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
   <img height="45" src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" alt="dbt" title="dbt"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
-   &nbsp;&nbsp;
-   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
@@ -120,9 +120,9 @@ O projeto está sendo desenvolvido do zero como um laboratório para aplicar con
 
 ### Production Engineer | Project Management | Analytics & Data Engineering
 
-I have always been passionate about **technology, gaming, and programming**. My professional journey started in Engineering, working across **operations, planning, and project management**, and today I am bringing that experience into **Analytics and Data Engineering**.
+I have always been passionate about **technology, gaming, and programming**. My professional journey began in Engineering, working across **operations, planning, and project management**, and today I am directing that experience toward **Analytics and Data Engineering**.
 
-I see data as a way to **understand problems, automate processes, and support better decisions**. I currently use real-world challenges from my professional routine — particularly involving **dry-docking planning, new builds, costs, and operations** — as a laboratory for developing solutions using Python, SQL, data analytics, and automation.
+I see data as a tool to **understand problems, automate processes, and support better decisions**. I currently use real-world challenges from my daily work — particularly those related to **dry-docking planning, new builds, costs, and operations** — as a laboratory for developing solutions using Python, SQL, data analytics, and automation.
 
 ---
 
@@ -131,8 +131,6 @@ I see data as a way to **understand problems, automate processes, and support be
 <p align="left">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
@@ -140,7 +138,7 @@ I see data as a way to **understand problems, automate processes, and support be
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
 
-**Python • SQL • PostgreSQL • Git • GitHub • VS Code**
+**Python • Git • GitHub • VS Code**
 
 ---
 
@@ -154,6 +152,8 @@ I see data as a way to **understand problems, automate processes, and support be
   <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
   &nbsp;&nbsp;
   <img height="45" src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" alt="Power BI" title="Power BI"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://images.icon-icons.com/3053/PNG/512/microsoft_excel_alt_macos_bigsur_icon_189979.png" alt="Excel" title="Excel"/>
 </p>
 
 **Pandas • NumPy • Streamlit • Power BI • Excel • VBA • Dashboards**
@@ -171,19 +171,21 @@ I see data as a way to **understand problems, automate processes, and support be
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
   &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
 
-**Data Engineering • Docker • Apache Airflow • dbt • PySpark • AWS**
+**Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
 
-I am deepening my knowledge of **Data Engineering**, progressing from analytics and automation toward data pipelines, data modeling, distributed processing, and modern data architectures.
+I am deepening my knowledge of **Data Engineering**, progressing from analytics and automation toward building data pipelines, data modeling, distributed processing, and modern data architectures.
 
 ---
 
 ## 🧠 Domain Expertise
 
 **⚙️ Engineering & Operations** • **📋 Project Management** • **📅 Planning & Scheduling**  
-**💰 Costs** • **⚓ Maritime Operations & Dry-Docking** • **📊 KPIs & Performance** • **🔄 Process Improvement**
+**💰 Cost Management** • **⚓ Maritime Operations & Dry-Docking** • **📊 KPIs & Performance** • **🔄 Process Improvement**
 
 My Engineering and Operations background complements my technical development in data, allowing me to build solutions connected to **real-world business problems**.
 
@@ -211,9 +213,9 @@ Developing dashboards and KPIs to support **planning, project monitoring, and de
 
 ### 🎮 Online RPG & Idle Game
 
-Developing a **2D online RPG with Idle systems**, inspired by elements of classic MMORPGs while introducing its own identity, world, and gameplay mechanics.
+Developing a **2D online RPG with Idle systems**, inspired by classic MMORPG elements while introducing its own identity, world, and gameplay mechanics.
 
-The project is being built from scratch as a laboratory for applying concepts in **programming, databases, software architecture, and Data Engineering**. Beyond gameplay mechanics, the project will also explore **player telemetry and data analytics**, enabling the analysis of progression, game economy, balancing, and player behavior.
+The project is being built from scratch as a laboratory for applying concepts in **programming, databases, software architecture, and Data Engineering**. Beyond the gameplay mechanics, the project will also explore **player telemetry and data analytics**, enabling the analysis of progression, in-game economy, balancing, and player behavior.
 
 `Game Development` `Backend` `SQL` `PostgreSQL` `Data Analytics` `Telemetry`
 
