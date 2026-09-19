@@ -13,8 +13,6 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
 <p align="left">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
@@ -22,7 +20,7 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
 
-**Python • SQL • PostgreSQL • Git • GitHub • VS Code**
+**Python • Git • GitHub • VS Code**
 
 ---
 
@@ -52,11 +50,13 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
   <img height="45" src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" alt="dbt" title="dbt"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
+   &nbsp;&nbsp;
+   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
 
-**Data Engineering • Docker • Apache Airflow • dbt • PySpark • AWS**
+**Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
 
 Estou aprofundando meus conhecimentos em **Engenharia de Dados**, evoluindo de análise e automação para construção de pipelines, modelagem de dados, processamento distribuído e arquiteturas modernas de dados.
 
