@@ -96,7 +96,7 @@ Desenvolvimento de dashboards e indicadores para apoiar **planejamento, acompanh
 ## 📫 Como entrar em contato
 
 <a href="https://www.linkedin.com/in/filipealbuquerqueah/">
-  <img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"/>
+  <img height="32" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:falbuquerqueah@gmail.com">
