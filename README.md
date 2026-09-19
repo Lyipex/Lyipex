@@ -1,68 +1,31 @@
-# 👋 Olá, eu sou o Filipe Albuquerque
+# Olá, eu sou Filipe Albuquerque! 👋
 
-### Production Engineer → Data & Software Engineering
+Sempre fui apaixonado por **tecnologia, jogos e programação**. Embora minha trajetória profissional inicial tenha me levado por caminhos diferentes, hoje dedico meu tempo e energia à transição para a área que realmente gosto. Vejo a **análise de dados** como uma ferramenta essencial para orientar decisões mais precisas e minimizar falhas operacionais.
 
-Engenheiro de Produção e pós-graduando em Gestão de Projetos, construindo minha carreira em **Data Engineering, Analytics e desenvolvimento com Python**.
+Meu propósito ao migrar para **Analytics/Data Engineering** é atuar como uma ponte entre a complexidade das operações e a inteligência digital. No meu dia a dia, gerencio o **planejamento de docagens e novas construções**, garantindo que as entregas das embarcações atendam a todos os requisitos contratuais. Utilizo essa experiência estratégica para transformar dados dispersos e rotinas manuais em **pipelines automatizados** e **dashboards visuais e interativos**.
 
-Minha experiência vem de ambientes de engenharia, operações offshore, manutenção e planejamento. Hoje uso esse conhecimento de negócio para desenvolver soluções orientadas a dados, automatizar processos e transformar problemas operacionais em projetos de software e dados.
+### 🛠️ Stack Tecnológica e Ferramentas
 
-Atualmente estudando e construindo projetos com foco em **Python, SQL, bancos de dados, pipelines e arquitetura de dados**.
+- **Linguagens:** Python (Pandas, Streamlit, automações) e SQL
+- **Visualização de Dados & BI:** Power BI, Dashboards Interativos, Excel Avançado/VBA
+- **Boas Práticas:** Versionamento com Git/GitHub, Metodologias Ágeis
+- **Conhecimento de Negócio:** Gestão de Projetos, Planejamento e Custos, Matriz de Oportunidades
 
----
+### 🚀 O que estou construindo
 
-## 🧰 Tech Stack
+Atualmente, utilizo minha rotina de **planejamento de docagens e gestão de novas construções** como um laboratório para desenvolver soluções aplicadas a problemas reais, incluindo:
 
-### Languages & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- *Data Apps* para acompanhamento logístico e financeiro, como o `Cronograma_de_Gerenciamento_e_Planejamento_de_docagem_naval`.
+- **Pipelines de dados** voltados à otimização de inventário e à redução de gargalos operacionais.
 
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### 📫 Como entrar em contato
 
-### Development
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- **LinkedIn:** [linkedin.com/in/filipealbuquerqueah](https://www.linkedin.com/in/filipealbuquerqueah/)
+- **E-mail:** [falbuquerqueah@gmail.com](mailto:falbuquerqueah@gmail.com)
 
 ---
 
-## 🚀 Building
-
-📊 **Data Engineering Roadmap**  
-Aplicação em Python para organizar e acompanhar minha jornada de estudos em Engenharia de Dados.
-
-💰 **Finance Data App**  
-Projeto de engenharia reversa da minha atual planilha financeira, evoluindo de dados estruturados em planilha para aplicação Python e banco de dados.
-
-⚙️ **Industrial Data Projects**  
-Projetos baseados em problemas reais de engenharia, manutenção, planejamento e operações.
-
----
-
-## 🧭 Current Learning Path
-
-`Python` → `SQL` → `PostgreSQL` → `Data Modeling` → `ETL` → `dbt` → `PySpark` → `Airflow` → `Docker` → `AWS`
-
----
-
-## 🏗️ Domain Knowledge
-
-`Offshore Operations` · `Maintenance` · `Project Planning` · `Supply Chain` · `Asset Management` · `Business Intelligence`
-
-Minha proposta é unir **engenharia + conhecimento operacional + software + dados** para construir soluções que resolvam problemas reais.
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe_Albuquerque-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
-
----
-
-> Building data solutions from real engineering problems.
+> *"Dados só têm valor quando geram ação e resultados operacionais. Quem não controla, não gerencia!"*
 ________________________________________________________________________________________________________________________________________
 # Hi, I'm Filipe Albuquerque! 👋
 
