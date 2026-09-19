@@ -1,56 +1,183 @@
 # Olá, eu sou Filipe Albuquerque! 👋
 
-Sempre fui apaixonado por **tecnologia, jogos e programação**. Embora minha trajetória profissional inicial tenha me levado por caminhos diferentes, hoje dedico meu tempo e energia à transição para a área que realmente gosto. Vejo a **análise de dados** como uma ferramenta essencial para orientar decisões mais precisas e minimizar falhas operacionais.
+### Engenheiro de Produção | Gestão de Projetos | Analytics & Data Engineering
 
-Meu propósito ao migrar para **Analytics/Data Engineering** é atuar como uma ponte entre a complexidade das operações e a inteligência digital. No meu dia a dia, gerencio o **planejamento de docagens e novas construções**, garantindo que as entregas das embarcações atendam a todos os requisitos contratuais. Utilizo essa experiência estratégica para transformar dados dispersos e rotinas manuais em **pipelines automatizados** e **dashboards visuais e interativos**.
+Sempre fui apaixonado por **tecnologia, jogos e programação**. Minha trajetória profissional começou na Engenharia, passando por **operações, planejamento e gestão de projetos**, e hoje estou direcionando essa experiência para **Analytics e Data Engineering**.
 
-### 🛠️ Stack Tecnológica e Ferramentas
+Vejo os dados como uma ferramenta para **entender problemas, automatizar processos e apoiar decisões**. Meu objetivo é unir conhecimento de negócio e tecnologia para transformar dados dispersos e rotinas manuais em soluções mais eficientes, confiáveis e escaláveis.
 
-- **Linguagens:** Python (Pandas, Streamlit, automações) e SQL
-- **Visualização de Dados & BI:** Power BI, Dashboards Interativos, Excel Avançado/VBA
-- **Boas Práticas:** Versionamento com Git/GitHub, Metodologias Ágeis
-- **Conhecimento de Negócio:** Gestão de Projetos, Planejamento e Custos, Matriz de Oportunidades
+Atualmente, utilizo problemas reais do meu dia a dia — especialmente relacionados a **planejamento de docagens, novas construções, custos e operações** — como laboratório para desenvolver projetos utilizando Python, SQL, análise de dados e automação.
 
-### 🚀 O que estou construindo
+---
 
-Atualmente, utilizo minha rotina de **planejamento de docagens e gestão de novas construções** como um laboratório para desenvolver soluções aplicadas a problemas reais, incluindo:
+## 💻 I code with
 
-- *Data Apps* para acompanhamento logístico e financeiro, como o `Cronograma_de_Gerenciamento_e_Planejamento_de_docagem_naval`.
-- **Pipelines de dados** voltados à otimização de inventário e à redução de gargalos operacionais.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+</p>
 
-### 📫 Como entrar em contato
+## 📊 Data & Analytics
 
-- **LinkedIn:** [linkedin.com/in/filipealbuquerqueah](https://www.linkedin.com/in/filipealbuquerqueah/)
-- **E-mail:** [falbuquerqueah@gmail.com](mailto:falbuquerqueah@gmail.com)
+<p align="left">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" />
+  &nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" />
+</p>
+
+**Python • SQL • PostgreSQL • Pandas • Streamlit • Power BI • Excel • VBA**
+
+---
+
+## 📚 Atualmente estudando
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+**Data Engineering • Docker • PySpark • dbt • Apache Airflow • AWS**
+
+Estou aprofundando meus conhecimentos em **Engenharia de Dados**, evoluindo de análise e automação para construção de pipelines, modelagem de dados, processamento distribuído e arquiteturas modernas de dados.
+
+---
+
+## 🚀 O que estou construindo
+
+Utilizo minha experiência em Engenharia e Operações para desenvolver projetos aplicados a problemas reais.
+
+### ⚓ Planejamento e Gestão de Docagem Naval
+
+Desenvolvimento de soluções para acompanhamento de **cronogramas, custos, logística e execução de projetos de docagem**, transformando controles operacionais em aplicações e análises orientadas por dados.
+
+`Python` `Pandas` `Streamlit` `Data Visualization`
+
+### 🔄 Data Pipelines & Automation
+
+Construção e estudo de pipelines voltados à **extração, transformação e organização de dados operacionais**, buscando reduzir atividades manuais, melhorar a qualidade dos dados e eliminar gargalos.
+
+`Python` `SQL` `PostgreSQL` `ETL`
+
+### 📈 Analytics & Business Intelligence
+
+Desenvolvimento de dashboards e indicadores para transformar dados operacionais em informações úteis para **planejamento, acompanhamento de projetos e tomada de decisão**.
+
+`Power BI` `Excel` `Python` `SQL`
+
+---
+
+## 🧠 Conhecimento de Negócio
+
+Além da tecnologia, trago experiência prática em:
+
+- ⚙️ Engenharia e Operações
+- 📋 Gestão de Projetos
+- 📅 Planejamento e Cronogramas
+- 💰 Custos e acompanhamento financeiro
+- ⚓ Operações marítimas e docagens
+- 📊 Indicadores e análise de desempenho
+- 🔄 Melhoria e automação de processos
+
+Essa combinação entre **negócio + engenharia + dados** é a base dos projetos que estou construindo.
+
+---
+
+## 📫 Como entrar em contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Albuquerque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipealbuquerqueah/)
+[![Gmail](https://img.shields.io/badge/Gmail-falbuquerqueah-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falbuquerqueah@gmail.com)
 
 ---
 
 > *"Dados só têm valor quando geram ação e resultados operacionais. Quem não controla, não gerencia!"*
-________________________________________________________________________________________________________________________________________
+
+<br>
+
 # Hi, I'm Filipe Albuquerque! 👋
 
-I have always been passionate about technology, gaming, and programming. Although my early career took me down different paths, today I dedicate my time and energy to transitioning into the field I truly love. I see data analysis as the ultimate tool for guiding precise decisions and minimizing operational failures.
+### Production Engineer | Project Management | Analytics & Data Engineering
 
-My purpose in transitioning to Analytics/Data Engineering is to be the bridge between complex operations and digital intelligence. In my day-to-day work, I manage the planning of dry-docking and new builds, ensuring that vessel deliveries meet all contractual requirements. I use this exact strategic background to transform scattered data and manual routines into fully automated pipelines and interactive visual dashboards.
+I have always been passionate about **technology, gaming, and programming**. My professional journey started in Engineering, working across **operations, planning, and project management**, and today I am bringing that experience into **Analytics and Data Engineering**.
 
-### 🛠️ Tech Stack and Tools
+I see data as a way to **understand problems, automate processes, and support better decisions**. My goal is to combine business knowledge and technology to transform scattered data and manual workflows into efficient, reliable, and scalable solutions.
 
-- **Languages:** Python (Pandas, Streamlit, automations) and SQL
-- **Data Viz & BI:** Power BI, Interactive Dashboards, Advanced Excel/VBA
-- **Best Practices:** Version Control with Git/GitHub, Agile Methodologies
-- **Domain Expertise:** Project Management, Planning and Costs, Matrix of Opportunities.
-
-### 🚀 What I'm Building
-
-I currently use my daily routine in dry-docking planning and new builds management as a laboratory to create real-world solutions, developing:
-- *Data Apps* for logistical and financial tracking (such as the `Cronograma_de_Gerenciamento_e_Planejamento_de_docagem_naval`).
-- Data pipelines for inventory optimization and reduction of operational bottlenecks.
-
-### 📫 How to Reach Me
-
-- **LinkedIn:** https://www.linkedin.com/in/filipealbuquerqueah/
-- **E-mail:** falbuquerqueah@gmail.com
+I currently use real-world challenges from my professional routine — particularly involving **dry-docking planning, new builds, costs, and operations** — as a laboratory for projects involving Python, SQL, data analytics, and automation.
 
 ---
-*"Data only has value when it drives action and operational results. You can't manage what you don't control!"*
 
+## 💻 I code with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+</p>
+
+## 📊 Data & Analytics
+
+<p align="left">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" />
+  &nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" />
+</p>
+
+**Python • SQL • PostgreSQL • Pandas • Streamlit • Power BI • Excel • VBA**
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+**Data Engineering • Docker • PySpark • dbt • Apache Airflow • AWS**
+
+I am currently deepening my knowledge of **Data Engineering**, progressing from analytics and automation toward data pipelines, data modeling, distributed processing, and modern data architectures.
+
+---
+
+## 🚀 What I'm Building
+
+I use my Engineering and Operations background to build projects based on real-world problems.
+
+### ⚓ Dry-Docking Planning & Management
+
+Developing solutions for monitoring **schedules, costs, logistics, and dry-docking project execution**, transforming operational controls into data-driven applications and analytics.
+
+`Python` `Pandas` `Streamlit` `Data Visualization`
+
+### 🔄 Data Pipelines & Automation
+
+Building and studying pipelines focused on **extracting, transforming, and organizing operational data**, aiming to reduce manual activities, improve data quality, and eliminate operational bottlenecks.
+
+`Python` `SQL` `PostgreSQL` `ETL`
+
+### 📈 Analytics & Business Intelligence
+
+Developing dashboards and KPIs to transform operational data into actionable information for **planning, project monitoring, and decision-making**.
+
+`Power BI` `Excel` `Python` `SQL`
+
+---
+
+## 🧠 Domain Expertise
+
+Beyond technology, I bring practical experience in:
+
+- ⚙️ Engineering & Operations
+- 📋 Project Management
+- 📅 Planning & Scheduling
+- 💰 Cost Management
+- ⚓ Maritime Operations & Dry-Docking
+- 📊 Performance Indicators & Analytics
+- 🔄 Process Improvement & Automation
+
+This combination of **business + engineering + data** is the foundation of the projects I am building.
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Albuquerque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipealbuquerqueah/)
+[![Gmail](https://img.shields.io/badge/Gmail-falbuquerqueah-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falbuquerqueah@gmail.com)
+
+---
+
+> *"Data only has value when it drives action and operational results. You can't manage what you don't control!"*
