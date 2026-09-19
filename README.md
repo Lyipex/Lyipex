@@ -1,4 +1,4 @@
-# Olá, eu sou Filipe Albuquerque! 👋
+# Olá, eu sou Filipe Brito Albuquerque! 👋
 
 ### Engenheiro de Produção | Gestão de Projetos | Analytics & Data Engineering
 
@@ -91,7 +91,7 @@ Essa combinação entre **negócio + engenharia + dados** é a base dos projetos
 
 <br>
 
-# Hi, I'm Filipe Albuquerque! 👋
+# Hi, I'm Filipe Brito Albuquerque! 👋
 
 ### Production Engineer | Project Management | Analytics & Data Engineering
 
