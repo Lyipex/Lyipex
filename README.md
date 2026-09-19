@@ -103,8 +103,6 @@ Desenvolvimento de dashboards e indicadores para apoiar **planejamento, acompanh
   <img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
 </a>
 
-**LinkedIn:** [linkedin.com/in/filipealbuquerqueah](https://www.linkedin.com/in/filipealbuquerqueah/)  
-**E-mail:** falbuquerqueah@gmail.com
 
 ---
 
@@ -216,9 +214,6 @@ Developing dashboards and KPIs to support **planning, project monitoring, and de
 <a href="mailto:falbuquerqueah@gmail.com">
   <img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
 </a>
-
-**LinkedIn:** [linkedin.com/in/filipealbuquerqueah](https://www.linkedin.com/in/filipealbuquerqueah/)  
-**E-mail:** falbuquerqueah@gmail.com
 
 ---
 
