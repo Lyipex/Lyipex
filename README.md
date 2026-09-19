@@ -49,11 +49,11 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" title="dbt"/>
+  <img height="45" src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" alt="dbt" title="dbt"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" alt="AWS" title="AWS"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
 
 **Data Engineering • Docker • Apache Airflow • dbt • PySpark • AWS**
