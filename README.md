@@ -35,7 +35,7 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
   &nbsp;&nbsp;
   <img height="45" src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" alt="Power BI" title="Power BI"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://icon2.cleanpng.com/20180822/evo/d8aadf38daa6a0dbf6b0c2ad4188e4ae.webp" alt="Excel" title="Excel"/>
+  <img height="45" src="https://zonalogo.com/assets/microsoft-excel-logo-png-svg.webp" alt="Excel" title="Excel"/>
 </p>
 
 **Pandas • NumPy • Streamlit • Power BI • Excel • VBA • Dashboards**
