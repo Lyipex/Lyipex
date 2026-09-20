@@ -15,7 +15,11 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img height="45" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub"/>
+  </picture>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
@@ -27,24 +31,28 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
 ## 📊 Data & Analytics
 
 <p align="left">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
-  &nbsp;&nbsp;
   <img height="45" src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" alt="Power BI" title="Power BI"/>
   &nbsp;&nbsp;
   <img height="45" src="https://images.icon-icons.com/3053/PNG/512/microsoft_excel_alt_macos_bigsur_icon_189979.png" alt="Excel" title="Excel"/>
 </p>
 
-**Pandas • NumPy • Streamlit • Power BI • Excel • VBA • Dashboards**
+**Power BI • Excel • VBA • Dashboards**
 
 ---
 
 ## 📚 Atualmente estudando
 
 <p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas/150458">
+    <img height="45" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas"/>
+  </picture>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
+  &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow"/>
@@ -58,9 +66,9 @@ Vejo os dados como uma ferramenta para **entender problemas, automatizar process
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
 
-**Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
+**Pandas • NumPy • Streamlit • Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
 
-Estou aprofundando meus conhecimentos em **Engenharia de Dados**, evoluindo de análise e automação para construção de pipelines, modelagem de dados, processamento distribuído e arquiteturas modernas de dados.
+Estou aprofundando meus conhecimentos em **Engenharia de Dados e no ecossistema Python para dados**, evoluindo de análise e automação para manipulação de dados, construção de pipelines, modelagem, processamento distribuído e arquiteturas modernas de dados.
 
 ---
 
@@ -133,7 +141,11 @@ I see data as a tool to **understand problems, automate processes, and support b
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img height="45" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub"/>
+  </picture>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
@@ -145,24 +157,28 @@ I see data as a tool to **understand problems, automate processes, and support b
 ## 📊 Data & Analytics
 
 <p align="left">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
-  &nbsp;&nbsp;
   <img height="45" src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" alt="Power BI" title="Power BI"/>
   &nbsp;&nbsp;
   <img height="45" src="https://images.icon-icons.com/3053/PNG/512/microsoft_excel_alt_macos_bigsur_icon_189979.png" alt="Excel" title="Excel"/>
 </p>
 
-**Pandas • NumPy • Streamlit • Power BI • Excel • VBA • Dashboards**
+**Power BI • Excel • VBA • Dashboards**
 
 ---
 
 ## 📚 Currently Learning
 
 <p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas/150458">
+    <img height="45" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas"/>
+  </picture>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
+  &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow"/>
@@ -176,9 +192,9 @@ I see data as a tool to **understand problems, automate processes, and support b
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
 </p>
 
-**Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
+**Pandas • NumPy • Streamlit • Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
 
-I am deepening my knowledge of **Data Engineering**, progressing from analytics and automation toward building data pipelines, data modeling, distributed processing, and modern data architectures.
+I am deepening my knowledge of **Data Engineering and the Python data ecosystem**, progressing from analytics and automation toward data manipulation, pipeline development, data modeling, distributed processing, and modern data architectures.
 
 ---
 
