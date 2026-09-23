@@ -1,113 +1,97 @@
 # Olá, eu sou Filipe Albuquerque! 👋
 
-### Engenheiro de Produção | Gestão de Projetos | Analytics & Data Engineering
+### Engenheiro de Produção | Software • Data • Game Development
 
-Sempre fui apaixonado por **tecnologia, jogos e programação**. Minha trajetória profissional começou na Engenharia, passando por **operações, planejamento e gestão de projetos**, e hoje estou direcionando essa experiência para **Analytics e Data Engineering**.
+Sou Engenheiro de Produção com experiência em **operações, planejamento e gestão de projetos**, e sempre fui apaixonado por **tecnologia, jogos e programação**.
 
-Vejo os dados como uma ferramenta para **entender problemas, automatizar processos e apoiar decisões**. Atualmente, utilizo problemas reais do meu dia a dia — especialmente relacionados a **planejamento de docagens, novas construções, custos e operações** — como laboratório para desenvolver soluções utilizando Python, SQL, análise de dados e automação.
+Atualmente, estou aprofundando minha formação em **desenvolvimento de software**, utilizando principalmente **C# e .NET**, enquanto aplico programação também em projetos de **Dados e Game Development**.
+
+Gosto de transformar problemas reais em software: automatizar processos, estruturar dados, desenvolver aplicações e, mais recentemente, construir meus próprios jogos.
 
 ---
 
-## 💻 Stack Tecnológica
+## 💻 Software Development
 
 <p align="left">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img height="45" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub"/>
-  </picture>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
 
-**Python • Git • GitHub • VS Code**
+**C# • .NET • Git**
 
 ---
 
 ## 📊 Data & Analytics
 
 <p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
   <img height="45" src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" alt="Power BI" title="Power BI"/>
   &nbsp;&nbsp;
   <img height="45" src="https://images.icon-icons.com/3053/PNG/512/microsoft_excel_alt_macos_bigsur_icon_189979.png" alt="Excel" title="Excel"/>
 </p>
 
-**Power BI • Excel • VBA • Dashboards**
+**Python • SQL • PostgreSQL • Power BI • Excel • VBA**
+
+Utilizo dados para **automatizar processos, estruturar informações, desenvolver indicadores e apoiar decisões**, conectando programação à minha experiência em Engenharia e Operações.
 
 ---
 
-## 📚 Atualmente estudando
+## 🎮 Game Development
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas/150458">
-    <img height="45" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas"/>
-  </picture>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" title="Unity"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" alt="dbt" title="dbt"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
 </p>
 
-**Pandas • NumPy • Streamlit • Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
+**Unity • C#**
 
-Estou aprofundando meus conhecimentos em **Engenharia de Dados e no ecossistema Python para dados**, evoluindo de análise e automação para manipulação de dados, construção de pipelines, modelagem, processamento distribuído e arquiteturas modernas de dados.
+Estou desenvolvendo um **RPG 2D online**, utilizando o projeto como laboratório para aprender e aplicar conceitos de **programação, arquitetura de software, sistemas de gameplay, persistência de dados e desenvolvimento de jogos**.
 
 ---
 
-## 🧠 Conhecimento de Negócio
+## 🧠 Experiência de Negócio
 
 **⚙️ Engenharia & Operações** • **📋 Gestão de Projetos** • **📅 Planejamento & Cronogramas**  
 **💰 Custos** • **⚓ Operações Marítimas & Docagens** • **📊 Indicadores & Performance** • **🔄 Melhoria de Processos**
 
-Minha experiência em Engenharia e Operações complementa minha formação técnica em dados, permitindo desenvolver soluções conectadas a **problemas reais de negócio**.
+Minha experiência profissional me permite desenvolver software entendendo não apenas a tecnologia, mas também **o problema de negócio que ela precisa resolver**.
 
 ---
 
-## 🚀 O que estou construindo
+## 🚀 Projetos
 
 ### ⚓ Planejamento e Gestão de Docagem Naval
 
-Soluções para acompanhamento de **cronogramas, custos, logística e execução de projetos de docagem**, transformando controles operacionais em aplicações e análises orientadas por dados.
+Desenvolvimento de soluções para acompanhamento de **cronogramas, custos, logística e execução de projetos de docagem**, transformando controles operacionais em aplicações e análises orientadas por dados.
 
-`Python` `Pandas` `Streamlit` `Data Visualization`
+`Python` `Data Analytics` `Automation`
 
-### 🔄 Data Pipelines & Automation
+### 🔄 Data Engineering & Automation
 
-Construção e estudo de pipelines para **extração, transformação e organização de dados operacionais**, buscando reduzir atividades manuais, melhorar a qualidade dos dados e eliminar gargalos.
+Projetos voltados à **extração, transformação e organização de dados**, automação de rotinas e estudo de arquiteturas e pipelines de dados.
 
 `Python` `SQL` `PostgreSQL` `ETL`
 
 ### 📈 Analytics & Business Intelligence
 
-Desenvolvimento de dashboards e indicadores para apoiar **planejamento, acompanhamento de projetos e tomada de decisão**.
+Desenvolvimento de dashboards, indicadores e análises para apoiar **planejamento, acompanhamento de projetos e tomada de decisão**.
 
 `Power BI` `Excel` `Python` `SQL`
 
-### 🎮 RPG Online & Idle Game
+### 🎮 RPG 2D Online
 
-Desenvolvimento de um **RPG 2D online com sistemas Idle**, inspirado em elementos clássicos de MMORPGs, mas com identidade, mundo e mecânicas próprias.
+Desenvolvimento de um **RPG 2D online**, inspirado em elementos clássicos de MMORPGs, mas com identidade, mundo e mecânicas próprias.
 
-O projeto está sendo desenvolvido do zero como um laboratório para aplicar conceitos de **programação, banco de dados, arquitetura de software e Engenharia de Dados**. Além das mecânicas de jogo, o projeto também explorará **telemetria e análise de dados dos jogadores**, permitindo estudar progressão, economia, balanceamento e comportamento dentro do jogo.
+O projeto também funciona como laboratório de **Engenharia de Software e Game Development**, envolvendo sistemas de gameplay, arquitetura, persistência de dados e, futuramente, telemetria para análise de progressão, economia e balanceamento.
 
-`Game Development` `Backend` `SQL` `PostgreSQL` `Data Analytics` `Telemetry`
+`Unity` `C#` `Game Development` `Software Architecture`
 
 ---
 
@@ -126,75 +110,59 @@ O projeto está sendo desenvolvido do zero como um laboratório para aplicar con
 
 # Hi, I'm Filipe Albuquerque! 👋
 
-### Production Engineer | Project Management | Analytics & Data Engineering
+### Production Engineer | Software • Data • Game Development
 
-I have always been passionate about **technology, gaming, and programming**. My professional journey began in Engineering, working across **operations, planning, and project management**, and today I am directing that experience toward **Analytics and Data Engineering**.
+I'm a Production Engineer with experience in **operations, planning, and project management**, and I have always been passionate about **technology, gaming, and programming**.
 
-I see data as a tool to **understand problems, automate processes, and support better decisions**. I currently use real-world challenges from my daily work — particularly those related to **dry-docking planning, new builds, costs, and operations** — as a laboratory for developing solutions using Python, SQL, data analytics, and automation.
+I am currently deepening my knowledge of **software development**, primarily using **C# and .NET**, while also applying programming to **Data and Game Development** projects.
+
+I enjoy turning real-world problems into software: automating processes, structuring data, developing applications, and, more recently, building my own games.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Software Development
 
 <p align="left">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET"/>
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img height="45" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub"/>
-  </picture>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </p>
 
-**Python • Git • GitHub • VS Code**
+**C# • .NET • Git**
 
 ---
 
 ## 📊 Data & Analytics
 
 <p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
   <img height="45" src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" alt="Power BI" title="Power BI"/>
   &nbsp;&nbsp;
   <img height="45" src="https://images.icon-icons.com/3053/PNG/512/microsoft_excel_alt_macos_bigsur_icon_189979.png" alt="Excel" title="Excel"/>
 </p>
 
-**Power BI • Excel • VBA • Dashboards**
+**Python • SQL • PostgreSQL • Power BI • Excel • VBA**
+
+I use data to **automate processes, structure information, develop performance indicators, and support decision-making**, connecting programming with my Engineering and Operations background.
 
 ---
 
-## 📚 Currently Learning
+## 🎮 Game Development
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas/150458">
-    <img height="45" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas"/>
-  </picture>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" title="Unity"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" alt="dbt" title="dbt"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="PySpark"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
 </p>
 
-**Pandas • NumPy • Streamlit • Data Engineering • Docker • Apache Airflow • dbt • PySpark • PostgreSQL • AWS**
+**Unity • C#**
 
-I am deepening my knowledge of **Data Engineering and the Python data ecosystem**, progressing from analytics and automation toward data manipulation, pipeline development, data modeling, distributed processing, and modern data architectures.
+I am developing a **2D online RPG**, using the project as a laboratory to learn and apply concepts in **programming, software architecture, gameplay systems, data persistence, and game development**.
 
 ---
 
@@ -203,37 +171,37 @@ I am deepening my knowledge of **Data Engineering and the Python data ecosystem*
 **⚙️ Engineering & Operations** • **📋 Project Management** • **📅 Planning & Scheduling**  
 **💰 Cost Management** • **⚓ Maritime Operations & Dry-Docking** • **📊 KPIs & Performance** • **🔄 Process Improvement**
 
-My Engineering and Operations background complements my technical development in data, allowing me to build solutions connected to **real-world business problems**.
+My professional background allows me to develop software while understanding not only the technology itself, but also **the business problem it needs to solve**.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Projects
 
 ### ⚓ Dry-Docking Planning & Management
 
-Solutions for monitoring **schedules, costs, logistics, and dry-docking project execution**, transforming operational controls into data-driven applications and analytics.
+Developing solutions for monitoring **schedules, costs, logistics, and dry-docking project execution**, transforming operational controls into data-driven applications and analytics.
 
-`Python` `Pandas` `Streamlit` `Data Visualization`
+`Python` `Data Analytics` `Automation`
 
-### 🔄 Data Pipelines & Automation
+### 🔄 Data Engineering & Automation
 
-Building and studying pipelines for **extracting, transforming, and organizing operational data**, aiming to reduce manual activities, improve data quality, and eliminate bottlenecks.
+Projects focused on **extracting, transforming, and organizing data**, automating workflows, and exploring data architectures and pipelines.
 
 `Python` `SQL` `PostgreSQL` `ETL`
 
 ### 📈 Analytics & Business Intelligence
 
-Developing dashboards and KPIs to support **planning, project monitoring, and decision-making**.
+Developing dashboards, KPIs, and analytics to support **planning, project monitoring, and decision-making**.
 
 `Power BI` `Excel` `Python` `SQL`
 
-### 🎮 Online RPG & Idle Game
+### 🎮 2D Online RPG
 
-Developing a **2D online RPG with Idle systems**, inspired by classic MMORPG elements while introducing its own identity, world, and gameplay mechanics.
+Developing a **2D online RPG**, inspired by classic MMORPG elements while introducing its own identity, world, and gameplay mechanics.
 
-The project is being built from scratch as a laboratory for applying concepts in **programming, databases, software architecture, and Data Engineering**. Beyond the gameplay mechanics, the project will also explore **player telemetry and data analytics**, enabling the analysis of progression, in-game economy, balancing, and player behavior.
+The project also serves as a laboratory for **Software Engineering and Game Development**, involving gameplay systems, architecture, data persistence, and, eventually, telemetry for analyzing progression, in-game economy, and game balancing.
 
-`Game Development` `Backend` `SQL` `PostgreSQL` `Data Analytics` `Telemetry`
+`Unity` `C#` `Game Development` `Software Architecture`
 
 ---
 
